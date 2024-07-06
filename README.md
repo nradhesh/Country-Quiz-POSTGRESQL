@@ -1,6 +1,7 @@
 # Country Capitals Quiz Game
 
 This project is a quiz game that tests users' knowledge of country capitals. The backend is built with Node.js using the Express framework and PostgreSQL as the database. The list of countries and capitals is imported from a CSV file named `capitals.csv`.
+![image](https://github.com/nradhesh/Country-Quiz-POSTGRESQL/assets/136627964/d8ef16b5-0531-45d8-ac56-5ad832656b0c)
 
 ## Table of Contents
 
